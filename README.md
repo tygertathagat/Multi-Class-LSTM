@@ -7,9 +7,11 @@ The Data Analysis part we have used two main libraries and they are :
 1. Pandas
 2. Seaborne
 Make sure your IDE has these libraries installed or use !pip to install them from your terminal
+
+
 #**The Data Preprocessing and Model**
 
-First of all install all of these libraries using !pip in your terminal
+First of all install all of these libraries using !pip in your terminal:
 1.Pandas
 2.NLTK
 3.re
